@@ -99,7 +99,7 @@ Raw SMS Text → Text Preprocessing → TF-IDF Vectorization → ML Classifier �
 
 | Spam vs Ham Distribution | Message Length Analysis | Confusion Matrix |
 |:---:|:---:|:---:|
-| ![Spam Distribution](spam_distribution.png) | ![Length Analysis](message_length_analysis.png) | ![Confusion Matrix](confusion_matrix.png) |
+| ![Spam Distribution](images/spam_distribution.png) | ![Datasets](images/spam_dataset.png) | ![spam prediction](images/spam_prediction.png) |
 
 ---
 
@@ -146,7 +146,7 @@ Raw SMS Text → Text Preprocessing → TF-IDF Vectorization → ML Classifier �
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/spam-detector-nlp.git
+git clone https://github.com/Saketh-dev7/spam-detector-nlp.git
 cd spam-detector-nlp
 
 # 2. Install dependencies
@@ -167,8 +167,8 @@ spam-detector-nlp/
 │
 ├── 📓 Spam_Detection_NLP_Project.ipynb   ← Main notebook
 ├── 📊 spam_distribution.png              ← Class distribution chart
-├── 📊 message_length_analysis.png        ← Length analysis chart
-├── 📊 confusion_matrix.png               ← Evaluation matrix
+├── 📊 spam_prediction.png        ← Prediction analysis
+├── 📊 spam_dataset.png               ← Dataset
 └── 📄 README.md                          ← Project documentation
 ```
 
@@ -198,12 +198,12 @@ Data Visualization  •  ML Model Evaluation  •  End-to-End NLP Pipeline
 
 <div align="center">
 
-**Your Name**
+**SAKETH**
 
 *Machine Learning Enthusiast | Engineering Student*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/Saketh-dev7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakethjakkula-dev)
 
 <br/>
 

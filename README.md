@@ -165,11 +165,16 @@ jupyter notebook
 ```
 spam-detector-nlp/
 │
-├── 📓 Spam_Detection_NLP_Project.ipynb   ← Main notebook
-├── 📊 spam_distribution.png              ← Class distribution chart
-├── 📊 spam_prediction.png        ← Prediction analysis
-├── 📊 spam_dataset.png               ← Dataset
-└── 📄 README.md                          ← Project documentation
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── Spam_Detection_NLP_Project.ipynb
+│
+└── images/
+    ├── spam_dataset.png
+    ├── spam_distribution.png
+    └── spam_prediction.png
 ```
 
 ---
